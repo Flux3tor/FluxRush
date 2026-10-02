@@ -4,6 +4,8 @@ just a stupidly hard endless platformer i made in godot
 
 you keep running, jump over shit, collect shards, and try to get as far as possible.
 
+visit https://flux3tor.itch.io/FluxRush to play!
+
 ## controls
 
 - `A / D` - move
